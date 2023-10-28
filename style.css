@@ -1,0 +1,23 @@
+ li{
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  
+}
+.nav:hover{
+    color: red;
+}
+.logo{
+	position:fixed;
+    left:0px;
+    top:0px;
+    height:220px;
+    z-index:1;
+    border-radius:10px;
+    z-index:3;
+    padding:10px;
+}
